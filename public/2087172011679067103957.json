@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1044831550469",
+    "project_id": "chat-gpt-bot-virtual-assistant",
+    "storage_bucket": "chat-gpt-bot-virtual-assistant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044831550469:android:2f426675e40cb5170cf06c",
+        "android_client_info": {
+          "package_name": "com.ChatGPTAIOpen.ChatBotVirtualAssistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044831550469-92h4092pue64v4020al1jmgf1dh3v0qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEGrSeOaQLlgy6kKBEid5eraonVm7PuSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044831550469-92h4092pue64v4020al1jmgf1dh3v0qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
